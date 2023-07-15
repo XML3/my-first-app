@@ -10,15 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "npm-check-updates": "^16.10.15",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/react": "^18.0.37",
-    "@types/react-dom": "^18.0.11",
-    "@vitejs/plugin-react": "^4.0.0",
-    "eslint": "^8.38.0",
-    "eslint-plugin-react": "^7.25.3",
+    "@chakra-ui/react": "^2.7.1",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "@vitejs/plugin-react": "*",
+    "eslint": "*",
+    "eslint-plugin-react": "*",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "vite": "^4.3.9"
